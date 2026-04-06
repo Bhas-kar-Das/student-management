@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+*.log
+*.DS_Store
+Thumbs.db
+node_modules/
+packages/
+Publish/
+student-management-ui/build/
+StudentManagementApi/bin/
+StudentManagementApi/obj/
